@@ -4,7 +4,7 @@
 //! Decode `NatNet` messages from raw bytes.
 //!
 //! [`NatNet`](http://www.optitrack.com/downloads/developer-tools.html#natnet-sdk)
-//! is the software solution supporting [OptiTrack](http://www.optitrack.com/)
+//! is the software solution supporting [`OptiTrack`](http://www.optitrack.com/)
 //! many offerings. Since motion tracking data is multicast it can be decoded
 //! in any language and this crate is a Rust (unofficial!) implementation.
 //!
