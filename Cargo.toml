@@ -6,6 +6,7 @@ description = "Decode raw NatNet messages"
 
 homepage = "https://github.com/nordmoen/natnet-decode"
 repository = "https://github.com/nordmoen/natnet-decode.git"
+documentation = "https://docs.rs/natnet-decode/"
 
 keywords = ["natnet", "motive", "optitrack", "decode", "parse"]
 license = "MIT"
