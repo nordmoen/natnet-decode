@@ -1,7 +1,6 @@
-[![Build
-Status](https://travis-ci.org/nordmoen/natnet-decode.svg?branch=master)](https://travis-ci.org/nordmoen/natnet-decode)
-
 # `NatNet`-decode
+[![Build
+Status](https://travis-ci.org/nordmoen/natnet-decode.svg?branch=master)](https://travis-ci.org/nordmoen/natnet-decode) [![Crates.io](https://img.shields.io/crates/v/natnet-decode.svg)]()
 Decode `NatNet` messages in Rust.
 
 [`NatNet`](http://www.optitrack.com/downloads/developer-tools.html#natnet-sdk)
